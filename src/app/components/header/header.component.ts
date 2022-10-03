@@ -13,5 +13,7 @@ title:string = "My Task List";
 
   ngOnInit(): void {
   }
-
+toggleAddTask(){
+  console.log("toggleAddTask!");
+}
 }
